@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka-us-tubh&label=Profile%20views&color=0e75b6&style=flat" alt="ka-us-tubh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka-us-tubh" alt="ka-us-tubh" /></a> </p>
-<img align="right" alt="gif" width="550" height="600" src="pixel-art.gif">
+<img align="right" alt="gif" width="550" height="700" src="pixel-art.gif">
 
 <p align="left"> <a href="https://twitter.com/kaustub25522311" target="blank"><img src="https://img.shields.io/twitter/follow/kaustub25522311?logo=twitter&style=for-the-badge" alt="kaustub25522311" /></a> </p>
 
