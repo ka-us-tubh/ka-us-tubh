@@ -1,4 +1,4 @@
-<img align="center" alt="GIF" src="https://tenor.com/en-IN/view/8bit-bit-animation-yeslukeitworks-gif-20176634" />
+<img align="center" alt="GIF" src="tenor.gif" />
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
