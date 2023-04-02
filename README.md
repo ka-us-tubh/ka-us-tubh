@@ -1,6 +1,7 @@
-<img align="center" alt="GIF" src="tenor.gif" /><img align="center" alt="GIF" src="metro-2033.gif" />
+<img align="center" width="600" alt="GIF" src="tenor.gif" />
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 <h3 align="center">A passionate ML developer from India</h3>
+<img align="right" alt="gif" width="400" src="metro-2033.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka-us-tubh&label=Profile%20views&color=0e75b6&style=flat" alt="ka-us-tubh" /> </p>
