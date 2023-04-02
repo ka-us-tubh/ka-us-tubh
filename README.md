@@ -1,4 +1,4 @@
-<center><img align="center" alt="GIF" src="tenor.gif" /></center>
+<img align="center" alt="GIF" src="tenor.gif" /><img align="center" alt="GIF" src="metro-2033.gif" />
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
