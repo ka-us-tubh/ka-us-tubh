@@ -40,4 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ka-us-tubh&show_icons=true&locale=en" alt="ka-us-tubh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka-us-tubh&" alt="ka-us-tubh" /></p>
+<img align="center" width="1000" alt="GIF" src="https://tenor.com/btlbB.gif" />
 
