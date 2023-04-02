@@ -1,8 +1,8 @@
-
+<img align="center" width="1000" alt="GIF" src="late-night-gaming.gif" />
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 <h3 align="center">A passionate ML developer from India</h3>
-<img align="center" width="1000" alt="GIF" src="late-night-gaming.gif" />
-<!-- <img align="center" width="1000" alt="GIF" src="lofi1.gif" /> -->
+
+<img align="center" width="1000" alt="GIF" src="stray-coding.gif" />
 
 
 
