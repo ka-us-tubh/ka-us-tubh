@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 <h3 align="center">A passionate ML developer from India</h3>
+<div class="tenor-gif-embed" data-postid="20176634" data-share-method="host" data-aspect-ratio="1.93939" data-width="100%"><a href="https://tenor.com/view/8bit-bit-animation-yeslukeitworks-gif-20176634">8bit Animation GIF</a>from <a href="https://tenor.com/search/8bit-gifs">8bit GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka-us-tubh&label=Profile%20views&color=0e75b6&style=flat" alt="ka-us-tubh" /> </p>
 
