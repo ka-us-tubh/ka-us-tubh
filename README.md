@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **kaustubhg10@gmail.com**
 
-<img align="right" alt="gif" width="550" src="lofi1.gif">
+<img align="center" alt="gif"  src="lofi1.gif">
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
