@@ -1,7 +1,7 @@
-<img align="center" width="600" alt="GIF" src="tenor.gif" />
+<img align="center" width="1000" alt="GIF" src="tenor.gif" />
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 <h3 align="center">A passionate ML developer from India</h3>
-<img align="right" alt="gif" width="400" src="metro-2033.gif">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ka-us-tubh&label=Profile%20views&color=0e75b6&style=flat" alt="ka-us-tubh" /> </p>
@@ -9,6 +9,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ka-us-tubh" alt="ka-us-tubh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kaustub25522311" target="blank"><img src="https://img.shields.io/twitter/follow/kaustub25522311?logo=twitter&style=for-the-badge" alt="kaustub25522311" /></a> </p>
+<img align="right" alt="gif" width="400" src="metro-2033.gif">
 
 - 🔭 I’m currently working on **ML & DL projects**
 
