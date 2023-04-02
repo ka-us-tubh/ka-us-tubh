@@ -1,4 +1,4 @@
-<img align="center" width="1000" height="500" alt="GIF" src="chilled-lamb-mienar.gif" />
+<img align="center" width="1000" alt="GIF" src="late-night-gaming.gif" />
 <h1 align="center">Hi 👋, I'm Kaustubh Gupta</h1>
 <h3 align="center">A passionate ML developer from India</h3>
 
@@ -41,4 +41,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ka-us-tubh&" alt="ka-us-tubh" /></p>
 <img align="center" width="1000" alt="GIF" src="city.gif" />
+<img align="center" width="1000" alt="GIF" src="chilled-lamb-mienar.gif" />
 
