@@ -10,6 +10,7 @@
 <img align="right" alt="gif" width="550" src="sad4ever.gif">
 
 <p align="left"> <a href="https://twitter.com/kaustub25522311" target="blank"><img src="https://img.shields.io/twitter/follow/kaustub25522311?logo=twitter&style=for-the-badge" alt="kaustub25522311" /></a> </p>
+<img align="right" alt="gif" width="550" src="lofi.gif">
 
 
 - 🔭 I’m currently working on **ML & DL projects**
