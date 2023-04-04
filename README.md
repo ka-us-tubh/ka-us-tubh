@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ka-us-tubh&show_icons=true&locale=en&layout=compact&theme=radical" alt="ka-us-tubh" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ka-us-tubh&show_icons=true&locale=en" alt="ka-us-tubh" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ka-us-tubh&show_icons=true&locale=en&theme=merko" alt="ka-us-tubh" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ka-us-tubh&theme=merko" alt="ka-us-tubh" /></p>
 
