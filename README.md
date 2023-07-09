@@ -32,7 +32,7 @@
 <a href="https://twitter.com/kaustub25522311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaustub25522311" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kaustubh-gupta-79a65b21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kaustubh-gupta-79a65b21b/" height="30" width="40" /></a>
 <a href="https://medium.com/@kaustubhg10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kaustubhg10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kaus_tubh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kaus_tubh" height="30" width="40" /></a>
+
 </p>
 
 
