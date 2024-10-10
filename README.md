@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" alt="Sci-Fi Banner" width="100%">
+  <img src="stray-coding.gif" alt="Sci-Fi Banner" width="100%">
 </div>
 
 <h1 align="center">
