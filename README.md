@@ -16,6 +16,7 @@ ML Developer | Code Weaver | Digital Alchemist
     <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kaustub25522311?style=social">
   </a>
 </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ka-us-tubh&show_icons=true&theme=radical)
 
 ---
 
