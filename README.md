@@ -1,8 +1,8 @@
 <h1 align="center">🌌 Greetings, Earthlings! I'm Kaustubh Gupta 👽</h1>
-<h3 align="center">🚀 Quantum ML Developer from the Cybernetic Future 🤖</h3>
+<h3 align="center">🚀 ML Developer from the Cybernetic Future 🤖</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" alt="Sci-Fi Coding" width="600"/>
+ <img src="stray-coding.gif" alt="Cyberpunk Coder" class="profile-image">
 </p>
 
 <p align="center">
