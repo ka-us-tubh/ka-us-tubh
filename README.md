@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="stray-coding.gif" alt="Sci-Fi Banner" width="100%">
+  <img src="stray-coding.gif" alt="Sci-Fi Banner" width="60%">
 </div>
 
 <h1 align="center">
