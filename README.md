@@ -1,18 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l3fzH82VGf6qizl0Q/giphy.gif" alt="Sci-Fi Banner" width="100%">
+  <img src="https://media.giphy.com/media/3og0ILLVvPp8d64Jd6/giphy.gif" alt="Sci-Fi Banner" width="100%">
 </div>
 
 <h1 align="center">
-  👾 WELCOME TO THE MATRIX, I'M KAUSTUBH GUPTA 👾
+  <img src="https://fontmeme.com/permalink/210925/5b35d8c3d6f71f78a395bd105519afe3.png" alt="KAUSTUBH GUPTA" border="0">
 </h1>
 
 <h3 align="center">
-  🚀 Quantum ML Developer | Code Weaver | Digital Alchemist 🚀
+  <img src="https://fontmeme.com/permalink/210925/8e9f949f00e3df02a287f94981be9e5d.png" alt="Quantum ML Developer | Code Weaver | Digital Alchemist" border="0">
 </h3>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Sci-Fi Coding" width="300"/>
-</div>
 
 <p align="center">
   <a href="https://github.com/ka-us-tubh">
@@ -26,41 +22,49 @@
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Sci-Fi Matrix" width="300"/>
+</div>
+
+<div align="center">
   
 ```diff
-@@  SYSTEM INITIALIZATION... @@
-+ Neural Network: Online
-- Quantum Processor: Calibrating
-! AI Core: Active
+@@   NEURAL NETWORK INITIALIZATION...   @@
++ Quantum Entanglement: Established
+- Dark Matter Reactor: Online
+! AI Core: Version 3.141592653589793
 # Deep Learning Modules: Loaded
+$ Cybernetic Enhancements: Activated
+& Time-Space Continuum: Stabilized
 ```
 
 </div>
 
 ---
 
-### 🌌 CURRENT GALACTIC MISSIONS
+### 🌌 GALACTIC MISSIONS LOG
 
-```yaml
-Mission_1:
-  objective: Quantum-Enhanced ML & DL projects
-  status: In Progress
-  completion: 67%
+<div align="center">
 
-Mission_2:
-  objective: Master Tensorflow, OpenCV, PyTorch, and Qiskit
-  status: Ongoing
-  progress:
-    - Tensorflow: [##########] 100%
-    - OpenCV:     [########__]  80%
-    - PyTorch:    [#######___]  70%
-    - Qiskit:     [####______]  40%
-
-Mission_3:
-  objective: Decrypt Universal Enigma
-  location: https://eyeonenigma.blogspot.com/
-  status: Continuous
+```mermaid
+gantt
+    title Interstellar Project Timeline
+    dateFormat  YYYY-MM-DD
+    section Quantum ML
+    Master Tensorflow        :a1, 2023-01-01, 180d
+    OpenCV Mastery           :a2, after a1, 120d
+    PyTorch Proficiency      :a3, after a2, 90d
+    Qiskit Integration       :a4, after a3, 60d
+    section Deep Space Projects
+    Enigma Decryption        :2023-01-01, 365d
+    Neural Network Expansion :2023-03-01, 300d
+    AI Sentience Achievement :2023-06-01, 180d
+    section Cosmic Outreach
+    Blog Updates             :2023-01-01, 365d
+    Intergalactic Conferences:2023-04-01, 90d
+    Publish Research Papers  :2023-07-01, 120d
 ```
+
+</div>
 
 ---
 
@@ -68,18 +72,17 @@ Mission_3:
 
 <p align="center">
   <a href="https://twitter.com/kaustub25522311" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/kaustubh-gupta-79a65b21b/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://medium.com/@kaustubhg10" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-</p>
-
-<p align="center">
-  <code>📫 QUANTUM ENTANGLEMENT: kaustubhg10@gmail.com</code>
+  <a href="mailto:kaustubhg10@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
 ---
@@ -88,17 +91,44 @@ Mission_3:
 
 <div align="center">
 
-| LANGUAGE | FRAMEWORK | TOOL | DATABASE |
-|:--------:|:---------:|:----:|:--------:|
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" width="40" height="40"/> |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40"/> | <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> |
+```mermaid
+mindmap
+  root((Tech Stack))
+    Languages
+      Python
+      C/C++
+      JavaScript
+    Frameworks
+      TensorFlow
+      PyTorch
+      OpenCV
+      Flask
+    Tools
+      Git
+      Docker
+      Bash
+    Databases
+      MySQL
+      MongoDB
+      Cassandra
+    Cloud
+      AWS
+      GCP
+      Azure
+    ML/AI
+      Scikit-learn
+      Keras
+      NLTK
+    Quantum
+      Qiskit
+      Cirq
+```
 
 </div>
 
 ---
 
-### 📊 QUANTUM REALM STATISTICS
+### 📊 QUANTUM REALM ANALYTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ka-us-tubh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
@@ -114,11 +144,26 @@ Mission_3:
 
 ---
 
+### 🌠 COSMIC CODE CONTRIBUTIONS
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ka-us-tubh&theme=monokai" alt="Contribution Graph">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ka-us-tubh&theme=monokai" alt="Top Languages by Repo">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ka-us-tubh&theme=monokai" alt="Top Languages by Commit">
+</div>
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/3o7btQ8jDTPGDpgc6I/giphy.gif" alt="Sci-Fi Footer" width="100%">
 </div>
 
-<h3 align="center">🌠 MAY THE SOURCE BE WITH YOU 🌠</h3>
+<h3 align="center">
+  <img src="https://fontmeme.com/permalink/210925/9f02b15a07f8d5029e154ce51cb95d2d.png" alt="MAY THE SOURCE BE WITH YOU" border="0">
+</h3>
 
 <div align="center">
 
