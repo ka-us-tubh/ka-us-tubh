@@ -65,30 +65,33 @@ $ Cybernetic Enhancements: Activated
 ```mermaid
 %%{init: {'theme': 'forest'}}%%
 mindmap
-  root((Tech Stack))
-    Languages
-      Python
-      C/C++
-      JavaScript
-    Frameworks
-      TensorFlow
-      PyTorch
-      OpenCV
-    Tools
-      Git
-      Docker
-      Bash
-    Databases
-      MySQL
-      MongoDb
-    Cloud
-      AWS
-    ML/AI
-      Scikit-learn
-      Keras
-      NLTK
-    Quantum
-      Qiskit
+root((Tech Stack))
+                  Languages
+                    Python
+                    C/C++
+                    JavaScript
+                  Frameworks
+                    TensorFlow
+                    PyTorch
+                    OpenCV
+                  Tools
+                    Git
+                    Docker
+                    Bash
+                  Databases
+                    MySQL
+                    MongoDB
+                  Cloud
+                    AWS
+                  ML/AI
+                    Scikit-learn
+                    Keras
+                    NLTK
+                    Pandas
+                    Gymnasium
+                    Matplotlib
+                  Quantum
+                    Qiskit
       
 ```
 
