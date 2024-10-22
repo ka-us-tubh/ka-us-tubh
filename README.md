@@ -61,7 +61,7 @@ $ Cybernetic Enhancements: Activated
 ### 🛸 INTERDIMENSIONAL TOOLKIT
 
 <div align="center">
-
+%%{init: {'theme': 'forest'}}%%
 ```mermaid
 mindmap
   root((Tech Stack))
