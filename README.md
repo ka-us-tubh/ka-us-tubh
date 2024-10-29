@@ -68,12 +68,15 @@ mindmap
 root((Tech Stack))
                   Languages
                     Python
-                    C/C++
+                    C++
+                    Java
                     JavaScript
                   Frameworks
                     TensorFlow
                     PyTorch
                     OpenCV
+                    HTML
+                    CSS
                   Tools
                     Git
                     Docker
