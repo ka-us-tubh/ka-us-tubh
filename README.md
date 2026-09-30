@@ -113,7 +113,7 @@ root((Tech Stack))
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btQ8jDTPGDpgc6I/giphy.gif" alt="Sci-Fi Footer" width="100%">
+  <img src="chilled-lamb-mienar.gif" alt="Sci-Fi Footer" width="100%">
 </div>
 
 
