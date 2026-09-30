@@ -1,25 +1,10 @@
 <div align="center">
   <img src="stray-coding.gif" alt="Sci-Fi Banner" width="60%">
 </div>
-<div align="center">
-
-```
- /$$   /$$  /$$$$$$  /$$   /$$  /$$$$$$  /$$$$$$$$ /$$   /$$ /$$$$$$$  /$$   /$$
-| $$  /$$/ /$$__  $$| $$  | $$ /$$__  $$|__  $$__/| $$  | $$| $$__  $$| $$  | $$
-| $$ /$$/ | $$  \ $$| $$  | $$| $$  \__/   | $$   | $$  | $$| $$  \ $$| $$  | $$
-| $$$$$/  | $$$$$$$$| $$  | $$|  $$$$$$    | $$   | $$  | $$| $$$$$$$ | $$$$$$$$
-| $$  $$  | $$__  $$| $$  | $$ \____  $$   | $$   | $$  | $$| $$__  $$| $$__  $$
-| $$\  $$ | $$  | $$| $$  | $$ /$$  \ $$   | $$   | $$  | $$| $$  \ $$| $$  | $$
-| $$ \  $$| $$  | $$|  $$$$$$/|  $$$$$$/   | $$   |  $$$$$$/| $$$$$$$/| $$  | $$
-|__/  \__/|__/  |__/ \______/  \______/    |__/    \______/ |_______/ |__/  |__/
-```
-
-</div>
-
 
 
 <h3 align="center">
-ML Developer | Code Weaver | Digital Alchemist
+GEN-AI/ML Developer | Code Weaver | Digital Alchemist
 </h3>
 
 <p align="center">
@@ -34,12 +19,9 @@ ML Developer | Code Weaver | Digital Alchemist
 
 ---
 
-### 📡 SUBSPACE COMMUNICATION CHANNELS
+### COMMUNICATION CHANNELS
 
 <p align="center">
-  <a href="https://twitter.com/kaustub25522311" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
   <a href="https://www.linkedin.com/in/kaustubh-gupta-79a65b21b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -53,7 +35,7 @@ ML Developer | Code Weaver | Digital Alchemist
 
 ---
 
-### 🛸 INTERDIMENSIONAL TOOLKIT
+### TOOLKIT
 
 <div align="center">
 
@@ -63,13 +45,10 @@ mindmap
 root((Tech Stack))
                   Languages
                     Python
-                    C++
-                    Java
                     JavaScript
                   Frameworks
                     TensorFlow
                     PyTorch
-                    OpenCV
                     HTML
                     CSS
                   Tools
@@ -78,7 +57,7 @@ root((Tech Stack))
                     Bash
                   Databases
                     MySQL
-                    MongoDB
+                    DuckDB
                   Cloud
                     AWS
                   ML/AI
@@ -97,7 +76,7 @@ root((Tech Stack))
 
 ---
 
-### QUANTUM REALM ANALYTICS
+### ANALYTICS
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ka-us-tubh&show_icons=true&locale=en&layout=compact&theme=radical" alt="Most Used Languages" />
@@ -113,7 +92,7 @@ root((Tech Stack))
 
 ---
 
-### COSMIC CODE CONTRIBUTIONS
+### CONTRIBUTIONS
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ka-us-tubh&theme=monokai" alt="Contribution Graph">
